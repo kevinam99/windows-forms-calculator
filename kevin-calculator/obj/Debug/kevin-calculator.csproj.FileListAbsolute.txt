@@ -1,0 +1,19 @@
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\bin\Debug\kevin-calculator.exe.config
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\bin\Debug\kevin-calculator.exe
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\bin\Debug\kevin-calculator.pdb
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin-calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin_calculator.Form1.resources
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin_calculator.Properties.Resources.resources
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin-calculator.csproj.GenerateResource.Cache
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin-calculator.exe
+C:\Users\Gec\Desktop\kevin-calculator\kevin-calculator\obj\Debug\kevin-calculator.pdb
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\bin\Debug\kevin-calculator.exe.config
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\bin\Debug\kevin-calculator.exe
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\bin\Debug\kevin-calculator.pdb
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin-calculator.csprojAssemblyReference.cache
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin_calculator.Form1.resources
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin_calculator.Properties.Resources.resources
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin-calculator.csproj.GenerateResource.cache
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin-calculator.csproj.CoreCompileInputs.cache
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin-calculator.exe
+F:\Sem 4\SE pracs\calc expt 6\calculator\kevin-calculator\obj\Debug\kevin-calculator.pdb
